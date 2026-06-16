@@ -59,7 +59,7 @@ My work blends **engineering precision** with **visual storytelling** — from d
 
 <p align="center">
   <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFqeWd0cnlwcWhpc3Y5cHQ2dno2MHRqdXNtMTNjZjd4cXNrcG5ocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgpAgbhcLUkGyyoAWo/giphy.gif" 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhnNW56MHFmMGh0Yjl4MmpsaG5sZjFiamYwNWs1MGVocjl0bG55NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACeIDlMpgc4yOf1Lyt/giphy.gif" 
     width="260"
   />
 </p>
@@ -71,5 +71,3 @@ My work blends **engineering precision** with **visual storytelling** — from d
 
 ---
 
-This layout keeps your **dark‑mode, red‑accent Sleek Wave aesthetic**, while staying fully GitHub‑compatible (no broken SVGs or scripts).  
-Would you like me to add a **custom footer animation** or a **banner header** in the same style next — something like a glowing red line under your name?
