@@ -1,4 +1,4 @@
-<!-- Sleek Wave Inspired GitHub Profile README -->
+
 
 <h1 align="center">Aamir Hamzah</h1>
 <h3 align="center">Data Analyst | Biomedical Engineer | Visual Storyteller</h3>
