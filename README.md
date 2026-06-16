@@ -28,14 +28,44 @@ My work blends **engineering precision** with **visual storytelling** — from d
 
 ## 🧩 **Tech Stack**
 
-  
-| Tool | Purpose | Vibe |
-|------|----------|------|
-| **Python** | Data manipulation, automation, analytics | 🐍 Fast and flexible |
-| **SQL** | Querying, joining, aggregating data | 🗄️ Structured and efficient |
-| **Excel** | Quick analysis, pivot dashboards | 📊 Classic and reliable |
-| **Tableau / Power BI** | Interactive storytelling | 🎨 Visual and dynamic |
-| **Azure** | Cloud workflows, data pipelines | ☁️ Scalable and modern |
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Tool</th>
+    <th>Purpose</th>
+    <th>Vibe</th>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>Data manipulation, automation, analytics</td>
+    <td>🐍 Fast and flexible</td>
+  </tr>
+  <tr>
+    <td><strong>SQL</strong></td>
+    <td>Querying, joining, aggregating data</td>
+    <td>🗄️ Structured and efficient</td>
+  </tr>
+  <tr>
+    <td><strong>Excel</strong></td>
+    <td>Quick analysis, pivot dashboards</td>
+    <td>📊 Classic and reliable</td>
+  </tr>
+  <tr>
+    <td><strong>Tableau / Power BI</strong></td>
+    <td>Interactive storytelling</td>
+    <td>🎨 Visual and dynamic</td>
+  </tr>
+  <tr>
+    <td><strong>Azure</strong></td>
+    <td>Cloud workflows, data pipelines</td>
+    <td>☁️ Scalable and modern</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
