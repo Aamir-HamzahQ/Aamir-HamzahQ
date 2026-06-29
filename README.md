@@ -63,6 +63,11 @@ My work blends **engineering precision** with **visual storytelling** — from d
     <td>Cloud workflows, data pipelines</td>
     <td>☁️ Scalable and modern</td>
   </tr>
+  <tr>
+<td><strong>ANSYS SpaceClaim / SolidWorks</strong></td>
+<td>CAD modelling, simulation prep, engineering design</td>
+<td>🛠️ Precise and engineering‑driven</td>
+</tr>
 </table>
 
 </div>
