@@ -79,7 +79,7 @@ My work blends **engineering precision** with **visual storytelling** — from d
 <p align="center">
   <a href="https://github.com/Aamir-HamzahQ"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aamir-hamzahq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/aamir.hamzahq"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/mohammed.quayyum/vizzes"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </p>
 
 ---
